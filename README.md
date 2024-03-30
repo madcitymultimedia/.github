@@ -1,2 +1,2 @@
 # .github
-https://wordpress.com/home/staging-951d-madcitymultimedia.wpcomstaging.com
+https://wordpress.com/home/staging-4cdf-madcitymultimedia.wpcomstaging.com
